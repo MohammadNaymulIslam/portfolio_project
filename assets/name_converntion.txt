@@ -1,0 +1,23 @@
+my-portfolio/
+├── assets/
+│   ├── hero-visual.jpg
+│   ├── skills-background.jpg
+│   ├── experience-background.jpg
+│   ├── contact-background.jpg
+│   ├── project1-diagram.png
+│   ├── project2-diagram.png
+│   ├── project3-diagram.png
+│   ├── project4-diagram.png
+│   ├── project5-diagram.png
+│   ├── project6-diagram.png
+│   └── Sourav-Das-CV.pdf
+│
+├── index.html
+├── gallery.html
+├── project1.html
+├── project2.html
+├── project3.html
+├── project4.html
+├── project5.html
+├── project6.html
+└── style.css
